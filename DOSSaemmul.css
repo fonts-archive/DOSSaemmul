@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'DOSSaemmul';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/DOSSaemmul/DOSSaemmul.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/DOSSaemmul/DOSSaemmul.woff') format('woff');
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/DOSSaemmul/DOSSaemmul.ttf') format('truetype');
+}
